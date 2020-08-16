@@ -1,9 +1,9 @@
 	<template>
-	 <div id="app">
-	   <toolbar />
-     <note-container />
-	   
-	 </div>
+    <div id="app">
+      <toolbar />
+      <note-container />
+      
+    </div>
 	</template>
 
 <script>
