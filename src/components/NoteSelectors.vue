@@ -1,8 +1,6 @@
 <template>
   <div class="note-selectors">
   <note-selector />
-   
-
     
   </div>
 </template>
